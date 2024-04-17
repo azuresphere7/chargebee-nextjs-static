@@ -2,7 +2,7 @@
   "name": "chargebee-nextjs-static",
   "version": "1.0.0",
   "private": true,
-  "author": "Bharathvaj Ganesan <bharathvaj@duck.com> (bharathvaj@duck.com)",
+  "author": "Dustin Lee <dustin.jason.lee@gmail.com> (dustin.jason.lee@gmail.com)",
   "license": "MIT",
   "scripts": {
     "dev": "next dev",
